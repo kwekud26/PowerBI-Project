@@ -3,6 +3,9 @@
 
 # Domestic Airline Flight Status Dashboard
 
+<img width="1080" height="930" alt="Black and Orange Minimalist Flight Ticket Instagram Post" src="https://github.com/user-attachments/assets/9a389a6e-6833-4bc4-a9d0-06dac97723fe" />
+
+
 ### Table of Contents
 - [Project Overview](#project-overview)  
 - [Project Scope](#project-scope)  
@@ -88,6 +91,9 @@ An airline executive wants to understand where performance gaps exist — which 
 - Weather caused **54.35%** of all flight cancellations
 - Sundays had the highest cancellation rates
 - Chicago and Atlanta were the busiest flight hubs
+
+
+<img width="893" height="499" alt="Domestic Airline Flight Status" src="https://github.com/user-attachments/assets/11fd60f9-29a0-429e-8b16-112cd9258ebd" />
 
 ---
 
