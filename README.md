@@ -1,5 +1,5 @@
 # PowerBI Projects
-
+A Power BI visualization project analyzing U.S. domestic flights using data provided by Maven Analytics. It highlights trends in delays, cancellations, and overall airline performance.
 
 # Domestic Airline Flight Status Dashboard
 
